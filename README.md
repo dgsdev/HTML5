@@ -13,7 +13,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/euhenriquefranca/portfolio.git
+    $ git clone https://github.com/dgsdev/HTML5.git
 
     # Entrar no diretório
     $ cd portfolio
@@ -35,4 +35,4 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 ---
 
 # dgsdev.github.io
-# dgsdev.github.io
+
