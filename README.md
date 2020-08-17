@@ -34,6 +34,5 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 ---
 
-⌨️ com ❤️ por [Henrique França](https://euhenriquefranca.github.io/portolio/) 😊
 # dgsdev.github.io
 # dgsdev.github.io
